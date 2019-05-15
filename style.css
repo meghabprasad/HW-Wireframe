@@ -52,10 +52,11 @@ html {
 }
 .h{
 	position: absolute;
-	bottom: 20px;
+	bottom: 50px;
 	color: #777;
 	background: white;
-
+	width: 100px;
+	height: 60px;
 }
 .aside{
 	margin-bottom: 20px;
