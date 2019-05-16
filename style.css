@@ -45,7 +45,7 @@ html {
 	width: 475px;
 	height: 220px;
 	background: rgb(100, 100, 100);
-	color: white;
+	color: #ebebeb;
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 18px;
 	text-align: center;
@@ -58,6 +58,7 @@ html {
 	background: white;
 	width: 455px;
 	height: 60px;
+	text-align: center;
 }
 .p{
 	position: absolute;
@@ -67,6 +68,7 @@ html {
 	background: white;
 	width: 455px;
 	height: 60px;
+	text-align: center;	
 }
 .aside{
 	margin-bottom: 20px;
